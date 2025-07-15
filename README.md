@@ -62,9 +62,6 @@ I’m a **Computer Science & Mathematical Economics** student at Gettysburg Coll
 [^4]: ETL and reporting automation as a research assistant at Gettysburg College.  
 [^5]: Java TA role at Gettysburg College.  
 
-
----
-
 ## 🔭 Selected Projects
 
 - ### [NuBrief](#)  
