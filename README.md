@@ -66,18 +66,17 @@ I’m a **Computer Science & Mathematical Economics** student at Gettysburg Coll
 
 - ### [NuBrief](#)  
   AI‑driven news aggregation platform using Node.js, Next.js, Google Gemini API & MongoDB.  
-  Real‑time summarization, subscription management, SendGrid email delivery. :contentReference[oaicite:6]{index=6}
+  Real‑time summarization, subscription management, SendGrid email delivery. 
 
 - ### Manifestation Coach  
   ASP.NET Core app with Entity Framework & OpenAI API.  
-  Sends daily personalized affirmations, features Google/Facebook login & progress tracking. :contentReference[oaicite:7]{index=7}
+  Sends daily personalized affirmations, features Google/Facebook login & progress tracking.
 
 - ### Environmental Impact ML Model  
   Predicts Air Quality Index (AQI) using Python, Pandas & Scikit‑Learn with 85% accuracy.  
-  Visualized key predictors like emissions, temperature, wind flow. :contentReference[oaicite:8]{index=8}
-
+  Visualized key predictors like emissions, temperature, wind flow.
 - ### Optimus Time (Harvard Hackathon)  
-  Frontend in JavaFX & Java OOP, implemented core ML scheduling logic in under 36 hours. :contentReference[oaicite:9]{index=9}
+  Frontend in JavaFX & Java OOP, implemented core ML scheduling logic in under 36 hours.
 
 ---
 
