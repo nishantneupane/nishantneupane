@@ -32,27 +32,36 @@ I’m a **Computer Science & Mathematical Economics** student at Gettysburg Coll
 
 - **Software Engineering Intern** @ re:Members  
   Troy, MI │ May 2025 – Present  
-  - Building and optimizing backend APIs (C#/.NET) and enhancing Angular/TypeScript frontends  
-  - Writing unit & integration tests, optimizing Oracle SQL queries, collaborating in Scrum teams :contentReference[oaicite:1]{index=1}
+  - Building and optimizing backend APIs (C#/.NET) and enhancing Angular/TypeScript frontends[^1]  
+  - Writing unit & integration tests, optimizing Oracle SQL queries, collaborating in Scrum teams[^1]
 
 - **Data Science & Software Engineering Intern** @ Causara Analytics  
   Newcastle, WA │ Feb 2025 – May 2025  
-  - Designed serverless AWS pipelines (SAM + Docker) for geospatial analysis in Python/R  
-  - Enhanced Next.js frontend with real‑time data fetching & form handling :contentReference[oaicite:2]{index=2}
+  - Designed serverless AWS pipelines (SAM + Docker) for geospatial analysis in Python/R[^2]  
+  - Enhanced Next.js frontend with real‑time data fetching & form handling[^2]
 
 - **Software Engineering Intern** @ EnerSys  
   Reading, PA │ May 2023 – Aug 2024  
-  - Automated 5 workflows in ASP.NET & Python, cutting manual effort by 50–70%  
-  - Developed ETL pipelines, collaborated on SQL optimizations, participated in daily scrums :contentReference[oaicite:3]{index=3}
+  - Automated 5 workflows in ASP.NET & Python, cutting manual effort by 50–70%[^3]  
+  - Developed ETL pipelines, collaborated on SQL optimizations, participated in daily scrums[^3]
 
 - **Software Engineering Research Assistant** @ Gettysburg College  
   Jun 2023 – May 2024  
-  - Built Python/SQL ETL pipelines to automate data extraction & validation (60% faster)  
-  - Created reporting scripts & API integrations, corrected a critical database discrepancy :contentReference[oaicite:4]{index=4}
+  - Built Python/SQL ETL pipelines to automate data extraction & validation (60% faster)[^4]  
+  - Created reporting scripts & API integrations, corrected a critical database discrepancy[^4]
 
 - **Java Teaching Assistant** @ Gettysburg College  
   Jun 2023 – Dec 2023  
-  - Supported 20+ students in Intro to Programming (Java), held weekly office hours resolving 100+ queries :contentReference[oaicite:5]{index=5}
+  - Supported 20+ students in Intro to Programming (Java), held weekly office hours resolving 100+ queries[^5]
+
+---
+
+[^1]: Details from my re:Members internship (see resume).  
+[^2]: AWS & Docker projects I completed at Causara Analytics.  
+[^3]: Workflow automation and SQL optimization projects at EnerSys.  
+[^4]: ETL and reporting automation as a research assistant at Gettysburg College.  
+[^5]: Java TA role at Gettysburg College.  
+
 
 ---
 
