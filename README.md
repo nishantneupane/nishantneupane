@@ -20,7 +20,7 @@ I’m a **Computer Science & Mathematical Economics** student at Gettysburg Coll
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Java • Python • C# • SQL • JavaScript • TypeScript  
+- **Languages**: Java • Python • C# • SQL • JavaScript • TypeScript  • C • C++
 - **Frameworks & Libraries**: .NET Core • React • Node.js • Next.js • Flask • JUnit • Tailwind CSS  
 - **Cloud & DevOps**: AWS (SAM, Lambda, S3, ECR) • Docker • CI/CD • Git • Jira  
 - **Databases**: Oracle SQL • MongoDB • MySQL  
