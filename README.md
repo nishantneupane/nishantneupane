@@ -12,7 +12,7 @@
 I’m a **Computer Science & Mathematical Economics** student at Gettysburg College  
 (Aug 2022 – May 2026), passionate about building scalable full‑stack apps, data‑driven pipelines, and econometric research. I have always been fascinated by how computers have changed our lives and I hope to make a positive impact through the use of computers.
 
-- 🔭 I’m currently interning at **re:Members**, building full‑stack features with C#/.NET & Angular/TypeScript.[^1]  
+- 🔭 This summer I interned at **re:Members**, building full‑stack features with C#/.NET & Angular/TypeScript.[^1]  
 - 🌱 I’m deepening my knowledge of serverless architectures on **AWS** (SAM, Lambda, S3, ECR) and containerization with Docker.[^2]  
 - 👯 I’m open to collaborating on open‑source projects in **data science**, **AI**, and **web development**  
 
