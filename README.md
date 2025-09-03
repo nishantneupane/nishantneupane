@@ -14,7 +14,7 @@ I’m a **Computer Science & Mathematical Economics** student at Gettysburg Coll
 
 - 🔭 This summer I interned at **re:Members**, building full‑stack features with C#/.NET & Angular/TypeScript.[^1]  
 - 🌱 I’m deepening my knowledge of serverless architectures on **AWS** (SAM, Lambda, S3, ECR) and containerization with Docker.[^2]  
-- 👯 I’m open to collaborating on open‑source projects in **data science**, **AI**, and **web development**  
+- 👯 I’m open to collaborating on open‑source projects in **software engineering**, **data science**, **AI**, and **web development**  
 
 ---
 
