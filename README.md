@@ -80,17 +80,6 @@ I’m a **Computer Science & Mathematical Economics** student at Gettysburg Coll
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/USERNAME">
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=nishantneupane&show_icons=true&theme=radical&count_private=true" alt="Nishant’s GitHub Stats" />
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantneupane&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ## 📫 Let’s Connect
 
 - ✉️ Email: [neupni01@gettysburg.edu](mailto:neupni01@gettysburg.edu)  
