@@ -64,6 +64,9 @@ I’m a **Computer Science & Mathematical Economics** student at Gettysburg Coll
 
 ## 🔭 Selected Projects
 
+- ### ARM → Hack Assembly Compiler
+  Built a C++ compiler that translates a subset of ARM-style assembly into Hack assembly (Nand2Tetris),       focusing on instruction decoding, register mapping, memory addressing, and low-level control flow.
+
 - ### [NuBrief](#)  
   AI‑driven news aggregation platform using Node.js, Next.js, Google Gemini API & MongoDB.  
   Real‑time summarization, subscription management, SendGrid email delivery. 
